@@ -38,7 +38,8 @@ Please fork this repository and contribute back using [pull requests](https://gi
 
 Any contributions, large or small, major features, bug fixes, additional language translations, unit/integration tests are welcomed and appreciated but will be thoroughly reviewed and discussed.
 
-#License
+License
+--------
 
 O.S.A.A. - Open Source Android Apps
 
