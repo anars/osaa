@@ -4,6 +4,7 @@
 
 Information
 -----------
+Open Source Android Apps (OSAA) is a set of Android apps provided by Anar Software for showcase and educational purposes.
 
 ...
 
