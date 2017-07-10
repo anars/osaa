@@ -10,8 +10,8 @@ Information
 Building Apps
 --------
 
-The easiest way to build is to install [Android Studio](https://developer.android.com/sdk/index.html) v1.+
-with [Gradle](https://www.gradle.org/) v4.0.1.
+The easiest way to build is to install [Android Studio](https://developer.android.com/studio/) v2.3.3+
+with [Gradle](https://www.gradle.org/) v4.0.1+
 Once installed, then you can import the project into Android Studio:
 
 1. Open `File`
