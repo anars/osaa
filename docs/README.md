@@ -11,8 +11,8 @@ Open Source Android Apps (OSAA) is a set of Android apps provided by Anar Softwa
 Building Apps
 --------
 
-The easiest way to build is to install [Android Studio](https://developer.android.com/studio/) v2.3.3+
-with [Gradle](https://www.gradle.org/) v4.0.1+
+The easiest way to build is to install [Android Studio](https://developer.android.com/studio/) v3.1+
+with [Gradle](https://www.gradle.org/) v4.4+
 Once installed, then you can import the project into Android Studio:
 
 1. Open `File`
@@ -44,7 +44,7 @@ License
 
 O.S.A.A. - Open Source Android Apps
 
-Copyright (c) 2017 Anar Software LLC.
+Copyright (c) 2017-2018 Anar Software LLC.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
